@@ -1,0 +1,28 @@
+h1, h2 {
+    text-align: center;
+}
+
+.style-color, .style-font, .style-text {
+    border: 1px solid black;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.style-colors .color-boxes {
+    display: inline;
+}
+
+.color-boxes .color-blue {
+    background-color: #2d5dcc;
+    color: #fff;
+}
+.color-boxes .color-pink {
+    background-color: #d957d9;
+}
+.color-boxes .color-green {
+    background-color: #4fe0b0;
+}
+.color-boxes .color-beige {
+    background-color: #efd9ca;
+}
