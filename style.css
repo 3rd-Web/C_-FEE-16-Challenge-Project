@@ -1,5 +1,13 @@
+* {
+    font-family: 'Syne', sans-serif;
+}
+
 h1, h2 {
     text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
 }
 
 .style-color, .style-font, .style-text {
@@ -26,3 +34,45 @@ h1, h2 {
 .color-boxes .color-beige {
     background-color: #efd9ca;
 }
+
+/* font styles  */
+
+.ubuntu p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.silkscreen p {
+    font-family: 'Silkscreen', cursive;
+
+}
+
+.alumni p {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+.style-font p {
+    font-size: 24px;
+}
+
+/* text styles  */
+
+#textstyle {
+    text-align: center;
+    font-size: 24px;
+}
+
+.style-text h1 {
+    text-align: left;
+    font-size: 26px;
+}
+
+.style-text h2 {
+    text-align: left;
+    font-size: 18px;
+}
+
+.style-text p {
+    text-align: left;
+    font-size: 14px;
+}
+
